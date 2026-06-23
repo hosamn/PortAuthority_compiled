@@ -22,7 +22,7 @@ android {
         minSdkVersion 19
         targetSdkVersion 31
         versionCode 67
-        versionName "2.4.5"
+        versionName "2.5.0"
         applicationId "com.aaronjwood.portauthority"
         setProperty("archivesBaseName", "PortAuthority-$versionName")
         externalNativeBuild {
